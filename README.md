@@ -1,9 +1,10 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-
+<title>project</title>
 </head>
 <body>
-<h1><font face="Courier New, Arial">name of explicationdhcfg;kml',;opijnfutyesxuzwxdutcfgvbhjnou[hgpyftocvdsbui;dbfbu;davkjvuovasbuo;'svadb;kjb;kbu;sbsvbodaovai'di'obsvdab'ioadhyjdhjbhjdshjdsjdsjkcjkds
-sdlkskmlvmklvsdkmlsvmlkvdkmldsvkmlsvdkmlsvdmlkvdlmksvdmklvsddscdc
-
+<h1><font face="Courier New, Arial">name of explication</h1>
+<p><font face="Courier New, Arial">У попа была собака, ОН ЕЕ ЛЮБИЛ</p>
+</body>
+</html>
